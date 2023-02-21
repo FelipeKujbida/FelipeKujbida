@@ -43,7 +43,7 @@ Eu tenho experiência em movimentação e utilização de grandes volumes de dad
 Experiência com Bigdata em criação de Dataset, Datareq, Projetos, Querys, Dashboard Automatizados, Automatização de Processos, Integrações com Banco de Dados, EDC e Integração com Git Hub e Bitbucket para versionamento de código.
 
 Experiência com as Ferramentas: Google Cloud | BigQuery | Data Studio | Colab | MySQL | Visual Analytics | Oracle | AWS Amazon | Power BI | Bitbucket | Microsoft Visual Studio | GIT.
-https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 
 
