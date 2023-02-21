@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/FelipeKujbida/89250c426df4c2742cac93c08f4f6a9d/raw/9322c09e58389280c2f35697f16b21f3e1ec9ee7/githubcard.svg"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Sou o Felipe</h1>
+<h1 align="left">Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px">, Sou o Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FelipeKujbida&color=yellow" alt="Profile views" /> </p>
 
 - 🔥 Analista de dados sênior 
@@ -37,6 +37,13 @@
 </p>
 -->
 
+✨&nbsp; Sobre mim
+Eu tenho experiência em movimentação e utilização de grandes volumes de dados de negócio, com conhecimento em análise de dados, programação em linguagens Python e SQL e as principais técnicas e ferramentas de visualização de dados, que são essenciais para a inteligência de negócio de uma organização.
+
+Experiência com Bigdata em criação de Dataset, Datareq, Projetos, Querys, Dashboard Automatizados, Automatização de Processos, Integrações com Banco de Dados, EDC e Integração com Git Hub e Bitbucket para versionamento de código.
+
+Experiência com as Ferramentas: Google Cloud | BigQuery | Data Studio | Colab | MySQL | Visual Analytics | Oracle | AWS Amazon | Power BI | Bitbucket | Microsoft Visual Studio | GIT.
+https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif
 
 
 
